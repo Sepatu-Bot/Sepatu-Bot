@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there, I'm Sepatu-Bot. </h3>
 An Enthusiast Developer from Batavia of Java.<br>
 ● Kernel developer From Organizations at <a href="https://github.com/Neternels">NetErnels</a> .<br>
-● Learning Java, C, and Kotlin. <br>
+● Learning Python, Java, C, and Kotlin. <br>
 ● Love to play around with MediaTek Devices.<br>
  
 
